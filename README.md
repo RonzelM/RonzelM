@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anyone that helps me grow
 - 📫 How to reach me? just message me
 - 😄 Pronouns: Ronzel
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Cute ko
 
 <!---
 RonzelM/RonzelM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

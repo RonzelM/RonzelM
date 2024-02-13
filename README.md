@@ -2,7 +2,8 @@
 - 👀 I’m interested in coding
 - 💞️ I’m looking to collaborate on anyone that helps me grow in this field..
 - 📫 How to reach me akosironzel@gmail.com ....
-- 🌱 I’m currently learning on <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="35">
+- 🌱 I’m currently learning on
+- <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="35">
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="35">
 
 

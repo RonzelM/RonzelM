@@ -8,4 +8,4 @@
 
 
 
-I am a first year college student in Aces Tagum college Inc. I am currently trying to enchance my knowledge about programming and hoping to gain more experience.
+I am a first year college student in Aces Tagum college Inc. I am currently trying to enchance my knowledge about programming and hoping to gain more experience, To become a Sr. Software Engineer in the future.

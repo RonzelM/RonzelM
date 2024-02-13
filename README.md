@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @RonzelM
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465](https://github.com/RonzelM/RonzelM/assets/159202482/5f98b854-40b1-4c37-b951-4b1b12f5630e)- 👋 Hi, I’m Ronzel M. Tanutan (@RonzelM 
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java, HTML
-- 💞️ I’m looking to collaborate on anyone that helps me grow
-- 📫 How to reach me? just message me
-- 😄 Pronouns: Ronzel
-- ⚡ Fun fact: Cute ko
+- 🌱 I’m currently learning Java, HTML and etc..
+- 💞️ I’m looking to collaborate on anyone that helps me grow in this field..
+- 📫 How to reach me mailto:akosironzel@gmail.com ....
 
-<!---
-RonzelM/RonzelM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a first year college student in Aces Tagum college Inc. I am currently trying to enchance my knowledge about programming and hoping to gain more experience.
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465](https://github.com/RonzelM/RonzelM/assets/159202482/9203d490-1048-4813-a10b-4da91d9c0ba0)
+![Uploading <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88.25" height="28" role="img" aria-label="HTML5"><title>HTML5</title><g shape-rendering="crispEdges"><rect width="88.25" height="28" fill="#e34f26"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><image x="9" y="7" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkhUTUw1PC90aXRsZT48cGF0aCBkPSJNMS41IDBoMjFsLTEuOTEgMjEuNTYzTDExLjk3NyAyNGwtOC41NjQtMi40MzhMMS41IDB6bTcuMDMxIDkuNzVsLS4yMzItMi43MTggMTAuMDU5LjAwMy4yMy0yLjYyMkw1LjQxMiA0LjQxbC42OTggOC4wMWg5LjEyNmwtLjMyNiAzLjQyNi0yLjkxLjgwNC0yLjk1NS0uODEtLjE4OC0yLjExSDYuMjQ4bC4zMyA0LjE3MUwxMiAxOS4zNTFsNS4zNzktMS40NDMuNzQ0LTguMTU3SDguNTMxeiIvPjwvc3ZnPg=="/><text transform="scale(.1)" x="541.25" y="175" textLength="442.5" fill="#fff" font-weight="bold">HTML5</text></g></svg>68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465.svg…]()

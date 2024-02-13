@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RonzelM
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Java, HTML
 - 💞️ I’m looking to collaborate on anyone that helps me grow
 - 📫 How to reach me? just message me
 - 😄 Pronouns: Ronzel
